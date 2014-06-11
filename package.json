@@ -1,7 +1,7 @@
 {
   "name": "radics",
   "version": "0.1.0",
-  "description": "radics",
+  "description": "Converts numbers between different bases even between custom radix.",
   "main": "index.js",
   "scripts": {
     "test": "make test"
@@ -11,7 +11,13 @@
     "url": "git://github.com/kaelzhang/node-radics.git"
   },
   "keywords": [
-    "radics"
+    "radics",
+    "radix",
+    "base",
+    "convert",
+    "conversion",
+    "number",
+    "system"
   ],
   "engines": { 
     "node": ">=0.11.0"
